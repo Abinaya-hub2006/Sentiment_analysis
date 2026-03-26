@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.pth
+*.db
+.env
+outputs/images/
+outputs/reports/
